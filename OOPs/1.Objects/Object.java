@@ -1,6 +1,6 @@
 public class Object 
 {
-    //Below are the attributes of the objects that can be created through this class.
+    //Below are the attributes of the objects that can be created out of this class.
     String name;
     String Color;
     int number;
