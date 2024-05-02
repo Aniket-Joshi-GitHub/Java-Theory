@@ -25,3 +25,13 @@ public class Main
     
   }
 }
+
+
+
+Output : 
+/*
+Hi I am a function created by Object1. My Color is Red My number is 10
+Object1
+New Object1
+Hi I am a function created by Object2. My Color is Oranage My number is 15
+ */
